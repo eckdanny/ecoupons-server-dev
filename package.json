@@ -1,0 +1,23 @@
+{
+  "name": "ecoupons-server-dev",
+  "version": "0.0.0",
+  "description": "Tiny example to demo the desired interface",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eckdanny/ecoupons-server-dev.git"
+  },
+  "author": "Danny Eck",
+  "license": "private",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/eckdanny/ecoupons-server-dev/issues"
+  },
+  "dependencies": {
+    "mongoose": "~3.6.18",
+    "express": "~3.3.7"
+  }
+}
